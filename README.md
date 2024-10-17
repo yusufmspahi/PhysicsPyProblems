@@ -6,4 +6,3 @@ This repository contains my solutions to the Imperial computational physics prob
 Here you will find both problems and solutions in Jupyter notebook form, listed by the course to which they are relevant.
 
 
-M
